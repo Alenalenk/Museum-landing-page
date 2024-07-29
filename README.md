@@ -2,7 +2,7 @@
 
 ## A brief description of the project
 
-
+The single-page website for the National Museum aims to create an engaging and informative experience for visitors.
 
 Link to the preview: [DEMO LINK](https://alenalenk.github.io/Museum-landing-page/)
 
