@@ -25,8 +25,8 @@ Link to the design: [DESIGN](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY
 ## To launch the project locally, follow these steps:
 
 1. **Clone the repository**:<br>
-   git clone https://github.com/Alenalenk/landing-page-kickstarter.git<br>
-   cd landing-page-kickstarter<br>
+   git clone https://github.com/Alenalenk/Museum-landing-page.git<br>
+   cd Museum-landing-page<br>
    
 2. **Install the dependencies**:<br>
   If you are using NPM: npm install<br>
