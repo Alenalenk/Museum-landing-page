@@ -1,8 +1,8 @@
-# FUTURISTIC WIRELESS SPEAKER Layout
+# Museum Landing Page
 
 ## A brief description of the project
 
-This project is a layout for a futuristic wireless speaker product page. The design highlights Luna’s balanced and smooth performance across all frequency ranges, making the music both naturally pleasant and distinctly layered. 
+
 
 Link to the preview: [DEMO LINK](https://alenalenk.github.io/Museum-landing-page/)
 
